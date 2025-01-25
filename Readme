@@ -1,1 +1,27 @@
-npm start to run
+# Ecommerce-server
+This is the backend for the eCommerce platform built using Node.js, Express, and MongoDB.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+  Node.js (v16 or higher)
+  npm or Yarn
+  MongoDB (locally or use MongoDB Atlas)
+
+### Installation and Setup
+
+1. **Clone the repository**:
+     git clone https://github.com/sabithshass/Ecommerce-server.git
+     cd Ecommerce-server
+
+2. **Install Dependencies**:
+   Using npm:npm install
+   Using yarn:yarn install
+  
+3.**Run the Development Server**: 
+   Using npm:npm start
+   Using yarn:yarn dev
+
